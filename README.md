@@ -6,7 +6,7 @@ A corporate-styled rebuild of [blitz-insights.com](https://blitz-insights.com) u
 - **React Router**
 ---
 
-## 🚀 Setup & Run
+## Setup & Run
 
 ### Prerequisites
 - Node.js 18+
@@ -19,7 +19,7 @@ cd blitz-insights-react
 npm install
 npm run dev
 
-**Folder Structure & Naming Conventions**
+**Folder Structure**
 
 blitz-insights-react/
 ├── public/              # static assets (logo, images)
@@ -35,7 +35,6 @@ blitz-insights-react/
 ├── postcss.config.cjs
 ├── package.json
 └── README.md
-
 
 **Architectural Decisions (ADR style)**
 
