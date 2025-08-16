@@ -1,0 +1,11 @@
+
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+/* small global improvements */
+:root { --brand: #0f172a; --accent: #0ea5a4; }
+html { scroll-behavior: smooth; }
+body { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+a:focus, button:focus, input:focus, textarea:focus { outline: 3px solid rgba(14,165,164,0.15); outline-offset: 2px; }
+
